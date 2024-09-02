@@ -5,7 +5,7 @@
 Proyek ini adalah implementasi REST API + CRUD menggunakan MERN Stack (React, Node, Express) dan MySQL sebagai basis datanya. Proyek ini dibuat sebagai studi kasus untuk mengelola data Ninja yang meliputi Nama, Klan, Jurus, dan Asal.
 
 ## Tutorial Backend
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nt_Ax-4TNA4?si=bbt8Z3RX22QdxUiC&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/Nt_Ax-4TNA4?si=7mUU_4B-uitFZQi4
 
 ## Fitur
 - Membuat, Membaca, Mengupdate, dan Menghapus data Ninja.
